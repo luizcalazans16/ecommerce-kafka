@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../Program Files (x86)/gradle-6.8.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/common-kafka" />
+            <option value="$PROJECT_DIR$/service-email" />
+            <option value="$PROJECT_DIR$/service-email-new-order" />
+            <option value="$PROJECT_DIR$/service-fraud-detector" />
+            <option value="$PROJECT_DIR$/service-http" />
+            <option value="$PROJECT_DIR$/service-http-ecommerce" />
+            <option value="$PROJECT_DIR$/service-log" />
+            <option value="$PROJECT_DIR$/service-new-order" />
+            <option value="$PROJECT_DIR$/service-reading-report" />
+            <option value="$PROJECT_DIR$/service-users" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

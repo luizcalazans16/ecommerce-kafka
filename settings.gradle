@@ -1,0 +1,13 @@
+rootProject.name = 'ecommerce'
+include 'service-email'
+include 'common-kafka'
+include 'service-log'
+include 'service-fraud-detector'
+include 'service-new-order'
+include 'service-users'
+include 'service-http'
+include 'service-http-ecommerce'
+findProject(':service-http-ecommerce')?.name = 'service-httpecommerce'
+include 'service-reading-report'
+include 'service-email-new-order'
+

@@ -1,0 +1,16 @@
+br/com/alura/ecommerce/model/CorrelationId.java
+ br.com.alura.ecommerce.model.CorrelationId
+br/com/alura/ecommerce/dispatcher/KafkaDispatcher.java
+ br.com.alura.ecommerce.dispatcher.KafkaDispatcher
+br/com/alura/ecommerce/util/GsonSerializer.java
+ br.com.alura.ecommerce.util.GsonSerializer
+br/com/alura/ecommerce/model/Message.java
+ br.com.alura.ecommerce.model.Message
+br/com/alura/ecommerce/util/GsonDeserializer.java
+ br.com.alura.ecommerce.util.GsonDeserializer
+br/com/alura/ecommerce/consumer/ConsumerFunction.java
+ br.com.alura.ecommerce.consumer.ConsumerFunction
+br/com/alura/ecommerce/util/MessageAdapter.java
+ br.com.alura.ecommerce.util.MessageAdapter
+br/com/alura/ecommerce/service/KafkaService.java
+ br.com.alura.ecommerce.service.KafkaService

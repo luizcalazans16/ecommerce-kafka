@@ -1,0 +1,5 @@
+dependencies {
+    compile project(":common-kafka")
+    implementation group: 'org.eclipse.jetty', name: 'jetty-servlet', version: '9.4.23.v20191118'
+
+}

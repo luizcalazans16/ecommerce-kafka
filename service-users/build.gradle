@@ -1,0 +1,4 @@
+dependencies {
+    compile project(":common-kafka")
+    implementation group: 'org.xerial', name: 'sqlite-jdbc', version: '3.35.0'
+}
